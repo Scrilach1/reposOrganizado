@@ -1,0 +1,6 @@
+@ApiBoletos_HostAddress = http://localhost:5186
+
+GET {{ApiBoletos_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
